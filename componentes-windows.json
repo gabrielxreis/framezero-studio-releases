@@ -1,0 +1,9 @@
+{
+  "gerado": "2026-07-22T14:38:29Z",
+  "componentes": [
+    { "id": "runtime", "url": "https://github.com/gabrielxreis/framezero-studio-releases/releases/download/componentes-windows/runtime.zip", "espelho": "https://github.com/gabrielxreis/framezero-studio-releases/releases/download/componentes-windows/runtime.zip",
+      "sha256": "3cc1cf54ec2f96c1a00de323db0272ea15a83b7011cdec9700e3c27386c5cc61", "bytes": 245145745 },
+    { "id": "modelo", "url": "https://github.com/gabrielxreis/framezero-studio-releases/releases/download/componentes-windows/modelo.zip", "espelho": "https://github.com/gabrielxreis/framezero-studio-releases/releases/download/componentes-windows/modelo.zip",
+      "sha256": "46119ecdd8244a101631d8bdc5ac832dca16d625251cb58e171c83cad7d41350", "bytes": 1492337169 }
+  ]
+}
