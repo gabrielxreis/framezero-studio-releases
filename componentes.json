@@ -1,19 +1,9 @@
 {
-  "gerado": "2026-07-22T08:20:08Z",
+  "gerado": "2026-07-22T08:57:35Z",
   "componentes": [
-    {
-      "id": "runtime",
-      "url": "https://github.com/gabrielxreis/framezero-studio-releases/releases/download/componentes/runtime.tar.gz",
-      "espelho": "https://github.com/gabrielxreis/framezero-studio-releases/releases/download/componentes/runtime.tar.gz",
-      "sha256": "9710cd564ba70613e869662369912a1ad2f06a694bad3ffc51cb0df844916c1d",
-      "bytes": 260541052
-    },
-    {
-      "id": "modelo",
-      "url": "https://github.com/gabrielxreis/framezero-studio-releases/releases/download/componentes/modelo.tar.gz",
-      "espelho": "https://github.com/gabrielxreis/framezero-studio-releases/releases/download/componentes/modelo.tar.gz",
-      "sha256": "863098e90f2aa1c69f0483fdee19f1e7999a3f8189d6fd71107cacf008ad0032",
-      "bytes": 1618981866
-    }
+    { "id": "runtime", "url": "https://github.com/gabrielxreis/framezero-studio-releases/releases/download/componentes/runtime.tar.gz", "espelho": "https://github.com/gabrielxreis/framezero-studio-releases/releases/download/componentes/runtime.tar.gz",
+      "sha256": "b436964c36ba67e8eae7816dd09eb522c31e5bf3e7ab63923f9788bb73693d79", "bytes": 260537622 },
+    { "id": "modelo", "url": "https://github.com/gabrielxreis/framezero-studio-releases/releases/download/componentes/modelo.tar.gz", "espelho": "https://github.com/gabrielxreis/framezero-studio-releases/releases/download/componentes/modelo.tar.gz",
+      "sha256": "863098e90f2aa1c69f0483fdee19f1e7999a3f8189d6fd71107cacf008ad0032", "bytes": 1618981866 }
   ]
 }
