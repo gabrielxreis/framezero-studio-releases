@@ -1,5 +1,5 @@
 {
-  "version": "1.0.6",
-  "url": "https://github.com/gabrielxreis/framezero-studio-releases/releases/download/v1.0.6/FrameZero-Clips-1.0.6.zip",
-  "notes": "Alvo macOS 14 (antes exigia 26.5), instalacao pela internet e painel novo"
+  "version": "1.0.7",
+  "url": "https://github.com/gabrielxreis/framezero-studio-releases/releases/download/v1.0.7/FrameZero-Clips-1.0.7.zip",
+  "notes": "Download do instalador na velocidade da rede (era 0,1 MB/s)"
 }
