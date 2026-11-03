@@ -1,5 +1,5 @@
 {
-  "version": "1.0.8",
-  "url": "https://github.com/gabrielxreis/framezero-studio-releases/releases/download/v1.0.8/FrameZero-Clips-1.0.8.zip",
-  "notes": "Corrige a verificacao da instalacao em maquina limpa"
+  "version": "1.0.9",
+  "url": "https://github.com/gabrielxreis/framezero-studio-releases/releases/download/v1.0.9/FrameZero-Clips-1.0.9.zip",
+  "notes": "Login do painel do OBS agora usa o servidor proprio (o antigo vai ser desligado)"
 }
